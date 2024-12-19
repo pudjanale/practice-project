@@ -1,3 +1,3 @@
 # Схема работы приложения для хранения паролей
 
-![Scheme](https://imgur.com/a/5GOeIPO)
+![Scheme](https://iimg.su/i/jLdSU)
